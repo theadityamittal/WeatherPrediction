@@ -131,7 +131,3 @@ For questions, reach out via [GitHub Issues](https://github.com/your-repo/rain-p
 
 ## **License**
 This project is licensed under the **MIT License**.
-
----
-
-This **README** provides a structured, **comprehensive documentation** of the project, making it easy for recruiters, collaborators, or open-source contributors to understand its impact. Let me know if you want to include a **demo section with example results or API endpoints**.
