@@ -84,7 +84,7 @@ The dataset was sourced from the **Bureau of Meteorology's Climate Data Online s
 ### **1. Clone the Repository**
 ```bash
 git clone https://github.com/theadityamittal/WeatherPrediction.git
-cd rain-prediction-australia
+cd WeatherPrediction
 ```
 
 ### **2. Set Up the Environment**
